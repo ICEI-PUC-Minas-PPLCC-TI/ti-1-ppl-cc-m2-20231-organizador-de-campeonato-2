@@ -12,8 +12,8 @@ O projeto Organizador de campeonatos 2 tem como objetiuvo  ajudar na busca por u
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Ilo Amy Saldanha Rivero
+* Rafael Glater da Cruz Machado
 
 ## Instruções de utilização
 
