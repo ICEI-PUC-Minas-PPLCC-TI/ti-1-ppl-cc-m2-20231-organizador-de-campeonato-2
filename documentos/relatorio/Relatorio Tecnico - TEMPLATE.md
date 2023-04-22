@@ -13,7 +13,7 @@ Organizador de campeonatos 2
 >
 > Os membros do grupo são: 
 > - Caio pedersoli diniz
-> - 
+> - Pedro Augusto Santos Seabra
 
 # Estrutura do Documento
 
