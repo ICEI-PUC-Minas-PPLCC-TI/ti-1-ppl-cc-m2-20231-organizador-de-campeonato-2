@@ -54,8 +54,10 @@ Organizador de campeonatos 2
 
 ## Problema
     
-  Dificuldades de encontrar time spara jogar partidas.\n 
-  Dificuldades de definir data e local para partidas.\n
+  Dificuldades de encontrar time para jogar partidas
+  
+  Dificuldades de definir data e local para partidas.
+  
   Dificuldadde de um jogador se inserir em uma equipe.
 
 
