@@ -1,11 +1,11 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+      Organizador de campeonatos 2
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+  Ciências da computação
 
 ## Participantes
 
@@ -14,8 +14,8 @@
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Caio pedersoli diniz
+> - 
 
 # Estrutura do Documento
 
@@ -55,9 +55,10 @@
 # Introdução
 
 ## Problema
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
+    
+  Dificuldades de encontrar time spara jogar partidas
+  Dificuldades de definir data e local para partidas.
+  Dificuldadde de um jogador se inserir em uma equipe.
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
 > Descreva também o contexto em que essa aplicação será usada, se
