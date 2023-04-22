@@ -82,7 +82,7 @@ As pessoas que pretendemos atingir com esse projeto seriam pessoas que gostam de
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Como especificação de projetos temos:
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
