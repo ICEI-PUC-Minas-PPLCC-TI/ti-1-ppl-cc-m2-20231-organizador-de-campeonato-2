@@ -9,9 +9,7 @@ Organizador de campeonatos 2
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
 >
 > Os membros do grupo são: 
 > - Caio pedersoli diniz
@@ -56,8 +54,8 @@ Organizador de campeonatos 2
 
 ## Problema
     
-  Dificuldades de encontrar time spara jogar partidas. 
-  Dificuldades de definir data e local para partidas.
+  Dificuldades de encontrar time spara jogar partidas.\n 
+  Dificuldades de definir data e local para partidas.\n
   Dificuldadde de um jogador se inserir em uma equipe.
 
 
