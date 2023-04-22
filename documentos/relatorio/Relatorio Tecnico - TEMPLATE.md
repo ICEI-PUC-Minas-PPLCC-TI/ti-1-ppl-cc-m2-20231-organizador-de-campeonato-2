@@ -71,10 +71,7 @@ O projeto tem como principal objetivo facilitar as dificuldades citadas  a cima.
 
  Todo esse prjeto tem como objetivo ta,bém facilitar  e incentivar de certo modo a prática esportiva. Sendo assim, ao criar um software dessa maneira podemos facilitar bastante a maneira de organizar jogos amistosos , uma vez que sabemos da dificuldade atual de marcar partidas  e por isso muitas vezes  os jogos são deixados de lado pelas pessoas.
 
->
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
+
 
 
 ## Público-Alvo
