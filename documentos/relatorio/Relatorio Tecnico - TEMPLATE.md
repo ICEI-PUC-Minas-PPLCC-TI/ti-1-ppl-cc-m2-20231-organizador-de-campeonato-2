@@ -109,7 +109,7 @@ notificações
 > 
 > **Exemplo de Persona**
 > 
-> !Mateus, 17 anos https://miro.com/app/board/uXjVMYCawcg=/?moveToWidget=3458764550204712258&cot=14
+> !Mateus, 17 anos ![image](https://user-images.githubusercontent.com/131215781/233802494-f92a8dbd-37e3-4c4c-bdb2-cb7d18a01b82.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 >
