@@ -84,15 +84,12 @@ As pessoas que pretendemos atingir com esse projeto seriam pessoas que gostam de
 
 Como especificação de projetos temos:
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
-
+> Sistema de gerenciamento de equipes: O organizador deve permitir que os participantes se inscrevam em equipes ou sejam alocados em equipes pelo sistema.
+> Gerenciamento de partidas: O organizador deve ter um sistema de gerenciamento de partidas que permita a criação de partidas e horários, permitindo que os participantes inscritos vejam a agenda de jogos.
+> Plataforma de comunicação: O organizador deve ter uma plataforma de comunicação que permita que os participantes possam se comunicar entre si, enviar mensagens e 
+notificações
 ## Personas, Empatia e Proposta de Valor
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-
+> As
 > Relacione as personas identificadas no seu projeto, os respectivos mapas de empatia e 
 > mapas da proposta de valor. Lembre-se que você deve ser enumerar e descrever precisamente 
 > e de forma personalizada todos os principais envolvidos com a solução almeja. 
@@ -112,7 +109,7 @@ Como especificação de projetos temos:
 > 
 > **Exemplo de Persona**
 > 
-> ![Exemplo de Persona](images/persona.png)
+> !Mateus, 17 anos(images/persona.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 >
@@ -126,19 +123,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Adolescente  | Jogar futebol           | Me divertir com amigos              |
+|Estudante       | Praticar atividade física                 | Melhorar minha saúde |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+
 
 ## Requisitos
 
