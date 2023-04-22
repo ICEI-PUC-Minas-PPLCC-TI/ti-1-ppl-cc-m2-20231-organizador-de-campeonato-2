@@ -94,25 +94,12 @@ notificações
 > mapas da proposta de valor. Lembre-se que você deve ser enumerar e descrever precisamente 
 > e de forma personalizada todos os principais envolvidos com a solução almeja. 
 > 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
+> 
 >
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> - [Canvas da Proposta de Valor](https://analistamodelosdenegocios.com.br/canvas-da-proposta-de-valor/)
 > 
+> Persona: 
+> ![image](https://user-images.githubusercontent.com/131215781/233802494-f92a8dbd-37e3-4c4c-bdb2-cb7d18a01b82.png)
 > 
-> **Exemplo de Persona**
-> 
-> !Mateus, 17 anos ![image](https://user-images.githubusercontent.com/131215781/233802494-f92a8dbd-37e3-4c4c-bdb2-cb7d18a01b82.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
->
 > **Exemplo de Proposta de Valor**
 > ![Exemplo da Proposta de Valor](images/proposta_valor.png)
 
@@ -136,16 +123,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Chat de comunicação entre os capitães das respectivas equipes | ALTA | 
+|RF-002| Organização da mesma faixa etária | MÉDIA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve ser capaz de funcionar sem falhas | ALTA | 
+|RNF-002| O sistema deve ser capaz de processar muitos acessos simultâneos | MÉDIA | 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
@@ -162,11 +149,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 > Lembre-se que cada requisito deve corresponder à uma e somente uma
 > característica alvo da sua solução. Além disso, certifique-se de que
 > todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+
 
 
 ## Restrições
