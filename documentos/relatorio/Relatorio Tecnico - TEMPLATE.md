@@ -63,51 +63,25 @@ Organizador de campeonatos 2
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O projeto tem como principal objetivo facilitar as dificuldades citadas  a cima. Dessa forma, será desenvolvido um software cujo sua funcionalidade será  para que o número de jogos amistosos aumentem a  partir doi seu desenvolvimento.  Sendo assim várias formar de organizar "peladas " seriam realizadae uma vez que a comunicação entre as equipes irá se tornar mais acertiva no site para definir detalhes especiais da partida. As equipes conseguirão "personalizar partidas " através de um bate via o site .
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+ Todo esse prjeto tem como objetivo ta,bém facilitar  e incentivar de certo modo a prática esportiva. Sendo assim, ao criar um software dessa maneira podemos facilitar bastante a maneira de organizar jogos amistosos , uma vez que sabemos da dificuldade atual de marcar partidas  e por isso muitas vezes  os jogos são deixados de lado pelas pessoas.
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
+>
 > O grupo de trabalho pode fazer uso de questionários, entrevistas e
 > dados estatísticos, que podem ser apresentados, com o objetivo de
 > esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+As pessoas que pretendemos atingir com esse projeto seriam pessoas que gostam de futebol e gostam de praticar esse esporte  e  também pretendemos incentivar pessoas  sedentárias que gostame de futebol a  praticarem uma atividade física.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+
  
 # Especificações do Projeto
 
