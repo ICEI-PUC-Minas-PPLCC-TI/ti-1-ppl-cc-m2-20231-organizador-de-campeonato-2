@@ -109,7 +109,7 @@ notificações
 > 
 > **Exemplo de Persona**
 > 
-> !Mateus, 17 anos(images/persona.png)
+> !Mateus, 17 anos(https://img.freepik.com/fotos-gratis/retrato-de-um-adolescente-sorridente_171337-893.jpg)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 >
