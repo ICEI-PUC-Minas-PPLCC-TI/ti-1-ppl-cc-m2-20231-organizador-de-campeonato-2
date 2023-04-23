@@ -154,8 +154,21 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 # Projeto de Interface
+No projeto de interface foram feitos 9 wireframes e 1 página de userflow.
+No primeiro wireframe temos a tela inicial que vai ter todas as opções para acessar todas as partes do site
+Login,Registro,Configurações de time,Chat,Criar amistoso e procurar amistoso.
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+A pagina de login também pode dar acesso a opção de criar a conta,onde o úsuario poderá escolher sua posição favorita em um jogo de futebol e sua idade.
+
+Na pagina de Configurações de times a pessoa vai poder criar um novo time e mudar quem está presente no time.
+
+Na página de criação de amistoso o usuário  vai poder colocar a data, adicionar locais e ver locais próximos.Todos os amistosos criados vão para a página de "procura de amistosos".
+
+Na página de procurar amistosos, o usuário consiguirá procurar amistosos pelo nome do time e pela região, supondo que ela encontre um time que queira enfrentar, ela vai poder clicar numa opção que vai levar para página de chat, onde vai poder falar com o capitão do time que escolheu e definir detalhs sobre a partida.
+
+Lembrando que o chat também pode ser acessada à qualquer momento pela página inicial. 
+
+
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
@@ -164,7 +177,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
+
 
 > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
 > mapear todo fluxo de telas do site ou app. Essa técnica funciona
