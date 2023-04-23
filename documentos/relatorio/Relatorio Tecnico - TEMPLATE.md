@@ -197,7 +197,9 @@ Lembrando que o chat também pode ser acessada à qualquer momento pela página 
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+[Wireframes organizador de campeonatos 2.pdf](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m2-20231-organizador-de-campeonato-2/files/11305202/Wireframes.organizador.de.campeonatos.2.pdf)
+
+https://www.figma.com/file/rYCLFwmwYRlZu6vBQRUFZm/Wireframes-organizador-de-campeonatos-2?node-id=0%3A1&t=imukrzPHu8JhT8iW-1
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
