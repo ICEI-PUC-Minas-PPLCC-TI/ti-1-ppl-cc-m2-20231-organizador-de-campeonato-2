@@ -274,8 +274,8 @@ ue possível.
 
 ## Controle de Versão
 
-......  A ferramenta de controle de versão adotada no projeto foi o Git, 
-sendo que o Github foi ultilizado para hospedagem do repositório. ......
+ A ferramenta de controle de versão adotada no projeto foi o Git, 
+sendo que o Github foi ultilizado para hospedagem do repositório. 
 
 
 > A ferramenta de controle de versão adotada no projeto foi o
