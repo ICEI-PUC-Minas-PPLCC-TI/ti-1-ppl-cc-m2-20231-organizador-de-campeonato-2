@@ -102,8 +102,8 @@ notificações
 > 
 > Personas: 
 >![image](https://user-images.githubusercontent.com/131215781/233802494-f92a8dbd-37e3-4c4c-bdb2-cb7d18a01b82.png)
-
 ![image](https://user-images.githubusercontent.com/131215781/233862464-d771dede-01ee-42e2-a6f1-23211cc30ce3.png)
+![image](https://user-images.githubusercontent.com/131215781/233862722-7a79375e-3a08-463f-9ee6-877a32ed4d51.png)
 
 > ** Proposta de Valor**
 > ![image](https://user-images.githubusercontent.com/131215781/233803188-5f89167c-37cb-405d-83d5-c32427f03fb9.png)
