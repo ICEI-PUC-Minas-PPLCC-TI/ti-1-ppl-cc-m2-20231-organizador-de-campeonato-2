@@ -13,7 +13,7 @@ Organizador de campeonatos 2
 >
 > Os membros do grupo são: 
 > - Athus Wilke Souza
-> - Arthur Miguel
+> - Arthur Miguel Vieira Mapa
 > - Caio pedersoli diniz
 > - Danilo de Castro 
 > - Pedro Augusto Santos Seabra
@@ -388,9 +388,9 @@ sendo que o Github foi ultilizado para hospedagem do repositório. ......
 
 # Referências
 
-MIGUEL, Arthur. Wireframes organizador de campeonatos 2. Disponível em: https://www.figma.com/file/rYCLFwmwYRlZu6vBQRUFZm/Wireframes-organizador-de-campeonatos-2?node-id=0-1. Acesso em: 22/04/2023.
+MAPA, Arthur Miguel Vieira. Wireframes organizador de campeonatos 2. Disponível em: https://www.figma.com/file/rYCLFwmwYRlZu6vBQRUFZm/Wireframes-organizador-de-campeonatos-2?node-id=0-1. Acesso em: 22/04/2023.
 
-SEABRA, Pedro. Untitled. Disponível em: https://www.figma.com/file/Oy7hgDbqLPF8GGyTCnvhKO/Untitled?node-id=0-1. Acesso em: 22/04/2023.
+SEABRA, Pedro Augusto Santos. Untitled. Disponível em: https://www.figma.com/file/Oy7hgDbqLPF8GGyTCnvhKO/Untitled?node-id=0-1. Acesso em: 22/04/2023.
 
 NUNES, Rogério. Você pode usar o "canvas" para ter uma Proposta de Valor Singular. Disponível em: https://www.youtube.com/watch?v=wq5Aktr3p8c. Acesso em: 21/04/2023.
 
