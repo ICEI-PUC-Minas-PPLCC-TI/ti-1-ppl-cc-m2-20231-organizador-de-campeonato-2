@@ -197,7 +197,22 @@ Lembrando que o chat também pode ser acessada à qualquer momento pela página 
 
 ## Wireframes
 
-[Wireframes organizador de campeonatos 2.pdf](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m2-20231-organizador-de-campeonato-2/files/11305202/Wireframes.organizador.de.campeonatos.2.pdf)
+![Tela incial](https://user-images.githubusercontent.com/124935197/233871341-a34dc74d-39e5-4733-810c-1b28cb6ef253.png)
+![Criação de times](https://user
+![procuradeamistosos](https://user-images.githubusercontent.com/124935197/233871368-8c22b550-5a96-4fce-867e-1de94fba8718.png)
+
+![seleçãodelocais](https://user-images.githubusercontent.com/124935197/233871364-2e4faef4-da25-47fc-925f-086e3117e4c6.png)
+
+![tela de amistoso](https://user-images.githubusercontent.com/124935197/233871362-d47f8811-8cbe-4fd3-a9bb-6b16b3113d06.png)
+-images.githubusercontent.com/124935197/233871357-f028b0f1-cc7f-4acc-a764-1626ca66c058.png)
+![criação de time 2](https://user-images.githubusercontent.com/124935197/233871359-852aca77-48e4-43a0-acd1-178295231a2e.png)
+
+
+![chat](https://user-images.githubusercontent.com/124935197/233871349-183367eb-8721-457c-8218-397b57dd9880.png)
+
+![login](https://user-images.githubusercontent.com/124935197/233871343-0dd5ec4d-86d3-4184-9a6e-806e82c3ea9b.png)
+![teladeregistro](https://user-images.githubusercontent.com/124935197/233871344-84933d1c-94c2-4ee5-b849-4c5de85df058.png)
+
 
 https://www.figma.com/file/rYCLFwmwYRlZu6vBQRUFZm/Wireframes-organizador-de-campeonatos-2?node-id=0%3A1&t=imukrzPHu8JhT8iW-1
 
