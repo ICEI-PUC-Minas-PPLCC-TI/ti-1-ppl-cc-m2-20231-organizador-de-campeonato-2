@@ -100,11 +100,15 @@ notificações
 > 
 >
 > 
-> Persona: 
+> Personas: 
 > ![image](https://user-images.githubusercontent.com/131215781/233802494-f92a8dbd-37e3-4c4c-bdb2-cb7d18a01b82.png)
-> 
+> ![image](https://user-images.githubusercontent.com/131215781/233862398-74c0fd39-3c5b-44cb-a471-53241cf6f66d.png)
+![image](https://user-images.githubusercontent.com/131215781/233862464-d771dede-01ee-42e2-a6f1-23211cc30ce3.png)
+
 > ** Proposta de Valor**
 > ![image](https://user-images.githubusercontent.com/131215781/233803188-5f89167c-37cb-405d-83d5-c32427f03fb9.png)
+![image](https://user-images.githubusercontent.com/131215781/233862417-6454a1cf-52e5-449d-a60b-10c29866725c.png)
+![image](https://user-images.githubusercontent.com/131215781/233862483-894cd88a-30cb-4746-bd0a-997ca06cdfc8.png)
 
 
 ## Histórias de Usuários
