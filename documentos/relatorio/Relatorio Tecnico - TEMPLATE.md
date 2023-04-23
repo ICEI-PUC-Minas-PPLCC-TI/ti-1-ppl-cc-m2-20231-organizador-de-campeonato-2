@@ -191,8 +191,7 @@ Lembrando que o chat também pode ser acessada à qualquer momento pela página 
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 >
 > **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+> ![userflow](https://user-images.githubusercontent.com/124935197/233870584-7e30536e-28a7-4d68-ab89-fb824b0e74cb.png)
 
 
 ## Wireframes
@@ -221,15 +220,9 @@ https://www.figma.com/file/rYCLFwmwYRlZu6vBQRUFZm/Wireframes-organizador-de-camp
 > páginas. Um wireframe web é uma ilustração semelhante ao
 > layout de elementos fundamentais na interface.
 > 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
 > **Exemplo**:
 > 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+
 
 
 # Metodologia
