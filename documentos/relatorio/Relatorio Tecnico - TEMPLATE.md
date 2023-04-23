@@ -12,7 +12,10 @@ Organizador de campeonatos 2
 
 >
 > Os membros do grupo são: 
+> - Athus Wilke
+> - Arthur Miguel
 > - Caio pedersoli diniz
+> - Danilo de Castro 
 > - Pedro Augusto Santos Seabra
 
 # Estrutura do Documento
@@ -216,7 +219,15 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  
+> - As tarefas foram dividida de acordo com o perfil comportamental e facilidades de cada membro da equipe,
+visando uma maior eficiência no desenvolviemnto do projeto e conseguuir realiá-lo sem dificuldades. 
+ > -Athus Wilke: Gerenciamneto de pesquisas do grupo e busca de referências bibliográficas.
+ > -Arthur Miguel: Responsável pela parte de design do Wireframe e User flow.
+ > -Caio pedersoli diniz: Responsável pela contextualização do projeto.
+ > -Danilo de Castro: Oraganização do time e gerenciamneto da metodologia. 
+ > -Pedro Augusto Santos Seabra: Responsável pela especificação do projeto.
+ ......
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
@@ -231,10 +242,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro | https://miro.com/app/board/uXjVMYCawcg=/ | 
+|Repositório de código | GitHub |https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m2-20231-organizador-de-campeonato-2/blob/master/documentos/relatorio/Relatorio%20Tecnico%20-%20TEMPLATE.md | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Protótipo Interativo | Figma |https://www.figma.com/file/rYCLFwmwYRlZu6vBQRUFZm/Wireframes-organizador-de-campeonatos-2?node-id=0%3A1&t=C4DMc5mFtI04sBji-1 | 
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
@@ -261,7 +272,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  A ferramenta de controle de versão adotada no projeto foi o Git, 
+sendo que o Github foi ultilizado para hospedagem do repositório. ......
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
 > versionamento escolhida. Exponha como a gerência de tags, merges,
