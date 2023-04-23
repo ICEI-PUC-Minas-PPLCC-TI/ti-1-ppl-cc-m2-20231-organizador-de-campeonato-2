@@ -297,7 +297,8 @@ sendo que o Github foi ultilizado para hospedagem do repositório.
 >
 > **Exemplo - GitHub Feature Branch Workflow**:
 >
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
+> ![image](https://user-images.githubusercontent.com/131314728/233871372-9467c8f4-6636-44fd-a049-ce77dadd5599.png)
+
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
