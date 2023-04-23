@@ -219,17 +219,15 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  
-> - As tarefas foram dividida de acordo com o perfil comportamental e facilidades de cada membro da equipe,
-visando uma maior eficiência no desenvolviemnto do projeto e conseguuir realiá-lo sem dificuldades. 
- > -Athus Wilke: Gerenciamneto de pesquisas do grupo e busca de referências bibliográficas.
- > -Arthur Miguel: Responsável pela parte de design do Wireframe e User flow.
- > -Caio pedersoli diniz: Responsável pela contextualização do projeto.
- > -Danilo de Castro: Oraganização do time e gerenciamneto da metodologia. 
- > -Pedro Augusto Santos Seabra: Responsável pela especificação do projeto.
- ......
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
+> As tarefas foram dividida de acordo com o perfil comportamental e facilidades de cada membro da equipe,
+visando uma maior eficiência no desenvolviemnto do projeto e conseguuir realiá-lo sem dificuldades. 
+> Athus Wilke: Gerenciamneto de pesquisas do grupo e busca de referências bibliográficas.
+> Arthur Miguel: Responsável pela parte de design do Wireframe e User flow.
+> Caio pedersoli diniz: Responsável pela contextualização e gerenciamento do projeto.
+> Danilo de Castro: Oraganização de tarefas do time e gerenciamneto da metodologia.
+> Pedro Augusto Santos Seabra: Responsável pela especificação do projeto
 >
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
@@ -253,10 +251,10 @@ visando uma maior eficiência no desenvolviemnto do projeto e conseguuir realiá
 > 
 > As ferramentas empregadas no projeto são:
 > 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
+> - Editor de código: Optamos por ultilzar o VS Code como editor de códdigo pela familiaridade do grupo com a ferramenta.
+> - Ferramentas de comunicação: Para cominicaçao do grupo ultilizamos o Whatsapp.
+> - Ferramentas de diagramação: Para diagramação nosso grupo optou por utilizar a ferramenta miro.
+> - Plataforma de hospedagem: Optamos pelo GitHub pages pois é mais prático e todos podem contribuir.
 > 
 > O editor de código foi escolhido porque ele possui uma integração com o
 > sistema de versão. As ferramentas de comunicação utilizadas possuem
