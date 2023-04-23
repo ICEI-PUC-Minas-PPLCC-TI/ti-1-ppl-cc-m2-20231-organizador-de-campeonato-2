@@ -164,7 +164,7 @@ Na pagina de Configurações de times a pessoa vai poder criar um novo time e mu
 
 Na página de criação de amistoso o usuário  vai poder colocar a data, adicionar locais e ver locais próximos.Todos os amistosos criados vão para a página de "procura de amistosos".
 
-Na página de procurar amistosos, o usuário consiguirá procurar amistosos pelo nome do time e pela região, supondo que ela encontre um time que queira enfrentar, ela vai poder clicar numa opção que vai levar para página de chat, onde vai poder falar com o capitão do time que escolheu e definir detalhs sobre a partida.
+Na página de procurar amistosos, o usuário consiguirá procurar amistosos pelo nome do time e pela região, supondo que ela encontre um time que queira enfrentar, ela vai poder clicar numa opção que vai levar para página de chat, onde vai poder falar com o capitão do time que escolheu e definir detalhs sobre a partida.Apenas um capitão de um time pode iniciar a conversa com o capitão de outra.
 
 Lembrando que o chat também pode ser acessada à qualquer momento pela página inicial. 
 
@@ -177,6 +177,7 @@ Lembrando que o chat também pode ser acessada à qualquer momento pela página 
 
 ## User Flow
 
+![userflow](https://user-images.githubusercontent.com/124935197/233870584-7e30536e-28a7-4d68-ab89-fb824b0e74cb.png)
 
 
 > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
