@@ -224,15 +224,16 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ## Divisão de Papéis
 
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
-> As tarefas foram dividida de acordo com o perfil comportamental e facilidades de cada membro da equipe,
-visando uma maior eficiência no desenvolviemnto do projeto e conseguuir realiá-lo sem dificuldades. 
-> Athus Wilke: Gerenciamneto de pesquisas do grupo e busca de referências bibliográficas.
+
 > Arthur Miguel: Responsável pela parte de design do Wireframe e User flow.
+
 > Caio pedersoli diniz: Responsável pela contextualização e gerenciamento do projeto.
+ 
 > Danilo de Castro: Oraganização de tarefas do time e gerenciamneto da metodologia.
+
 > Pedro Augusto Santos Seabra: Responsável pela especificação do projeto
->
+
+
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
 > - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
@@ -250,8 +251,7 @@ visando uma maior eficiência no desenvolviemnto do projeto e conseguuir realiá
 |Protótipo Interativo | Figma |https://www.figma.com/file/rYCLFwmwYRlZu6vBQRUFZm/Wireframes-organizador-de-campeonatos-2?node-id=0%3A1&t=C4DMc5mFtI04sBji-1 | 
 
 >
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
+ue possível.
 > 
 > As ferramentas empregadas no projeto são:
 > 
@@ -277,10 +277,7 @@ visando uma maior eficiência no desenvolviemnto do projeto e conseguuir realiá
 ......  A ferramenta de controle de versão adotada no projeto foi o Git, 
 sendo que o Github foi ultilizado para hospedagem do repositório. ......
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
+
 > A ferramenta de controle de versão adotada no projeto foi o
 > [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 > foi utilizado para hospedagem do repositório `upstream`.
