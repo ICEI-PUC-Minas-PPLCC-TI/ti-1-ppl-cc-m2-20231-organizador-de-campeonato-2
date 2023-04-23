@@ -12,7 +12,7 @@ Organizador de campeonatos 2
 
 >
 > Os membros do grupo são: 
-> - Athus Wilke
+> - Athus Wilke Souza
 > - Arthur Miguel
 > - Caio pedersoli diniz
 > - Danilo de Castro 
