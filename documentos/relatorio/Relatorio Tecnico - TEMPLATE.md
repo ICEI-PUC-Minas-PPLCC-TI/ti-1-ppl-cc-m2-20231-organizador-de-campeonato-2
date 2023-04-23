@@ -103,7 +103,7 @@ notificações
 > Persona: 
 > ![image](https://user-images.githubusercontent.com/131215781/233802494-f92a8dbd-37e3-4c4c-bdb2-cb7d18a01b82.png)
 > 
-> **Exemplo de Proposta de Valor**
+> ** Proposta de Valor**
 > ![image](https://user-images.githubusercontent.com/131215781/233803188-5f89167c-37cb-405d-83d5-c32427f03fb9.png)
 
 
