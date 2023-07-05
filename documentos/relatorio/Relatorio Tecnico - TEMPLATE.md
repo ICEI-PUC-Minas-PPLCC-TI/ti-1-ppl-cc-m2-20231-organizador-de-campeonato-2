@@ -326,6 +326,8 @@ CSS: Para a estilização do site.
 
 HTML: Para a estrutura do site.
 
+![Screenshot (181)](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m2-20231-organizador-de-campeonato-2/assets/123521960/5bf00699-fc3e-47b2-b96e-b2cb13964d83)
+
 
 
 ## Arquitetura da solução
