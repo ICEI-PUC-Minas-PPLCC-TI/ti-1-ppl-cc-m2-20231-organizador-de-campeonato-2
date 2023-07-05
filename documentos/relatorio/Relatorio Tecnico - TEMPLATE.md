@@ -248,7 +248,7 @@ https://www.figma.com/file/rYCLFwmwYRlZu6vBQRUFZm/Wireframes-organizador-de-camp
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro | https://miro.com/app/board/uXjVMYCawcg=/ | 
 |Repositório de código | GitHub |https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m2-20231-organizador-de-campeonato-2/blob/master/documentos/relatorio/Relatorio%20Tecnico%20-%20TEMPLATE.md | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
+|Hospedagem do site | Vercel |  [https://XXXXXXX.herokuapp.com](https://sprijnt4vercel.vercel.app/) | 
 |Protótipo Interativo | Figma |https://www.figma.com/file/rYCLFwmwYRlZu6vBQRUFZm/Wireframes-organizador-de-campeonatos-2?node-id=0%3A1&t=C4DMc5mFtI04sBji-1 | 
 
 >
