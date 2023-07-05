@@ -341,10 +341,15 @@ USER FLOW:
 
 
 ![Screenshot (200)](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m2-20231-organizador-de-campeonato-2/assets/123521960/8e679f5e-587e-4a05-9893-6f7913a82fa4)
-5- Funcionalidade para que usuário possa escolher o local de partida disponível em sua região
+5- Funcionalidade para que usuário possa escolher o local de partida disponível em sua região.
 
 
+![Screenshot (201)](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m2-20231-organizador-de-campeonato-2/assets/123521960/0bf18629-76e7-409f-8d17-7e6de8d3c3df)
+6- Funcionalidade para procurar um desafio amistoso proposto por outro time.
 
+
+![Screenshot (202)](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m2-20231-organizador-de-campeonato-2/assets/123521960/7f2c89a4-caa5-4611-8cd8-583ec0319cb8)
+7- Tela com informações gerais da aplicação e uma breve descrição da iniciativa do projeto.
 
 
 ## Arquitetura da solução
