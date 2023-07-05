@@ -326,7 +326,24 @@ CSS: Para a estilização do site.
 
 HTML: Para a estrutura do site.
 
-![Screenshot (181)](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m2-20231-organizador-de-campeonato-2/assets/123521960/5bf00699-fc3e-47b2-b96e-b2cb13964d83)
+USER FLOW: 
+![Screenshot (189)](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m2-20231-organizador-de-campeonato-2/assets/123521960/7e66c64c-f5a2-478b-9378-71e720429857)  
+1- Home page: onde o usuário tem acesso as demais funcionalidades do site
+
+![Screenshot (197)](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m2-20231-organizador-de-campeonato-2/assets/123521960/ff76938f-8f7b-4025-88c3-6eec798bf405)
+2- Caso o usuário não tenha login, é direcionada para a página cadastro
+
+![Screenshot (198)](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m2-20231-organizador-de-campeonato-2/assets/123521960/306c0e65-1bd6-418f-82fa-41ac8f8dfc61)
+3- funcionalidade para a criação de um novo time.
+
+![Screenshot (199)](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m2-20231-organizador-de-campeonato-2/assets/123521960/5d7fdfcf-6b38-4a7b-b53b-634a03fe50be)
+4- Funcionalidade que permite o usuário propor amistosos para outros times locais 
+
+
+![Screenshot (200)](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m2-20231-organizador-de-campeonato-2/assets/123521960/8e679f5e-587e-4a05-9893-6f7913a82fa4)
+5- Funcionalidade para que usuário possa escolher o local de partida disponível em sua região
+
+
 
 
 
